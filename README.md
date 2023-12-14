@@ -1,2 +1,2 @@
 # eks-all-in-one
-all components to run a microservice application aws eks
+all components to run a microservice application in aws eks
